@@ -1,0 +1,48 @@
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.exe
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.deps.json
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.runtimeconfig.json
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.pdb
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterBack.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterBack.pdb
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.csproj.AssemblyReference.cache
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterGUI.Form1.resources
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.csproj.GenerateResource.cache
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.AssemblyInfoInputs.cache
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.AssemblyInfo.cs
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.csproj.CoreCompileInputs.cache
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.csproj.CopyComplete
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\refint\ImageFilterFront.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.pdb
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.genruntimeconfig.cache
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterGUI\obj\Debug\net6.0-windows\ref\ImageFilterFront.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.exe
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.deps.json
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.runtimeconfig.json
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\ImageFilterFront.pdb
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\Library.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.csproj.AssemblyReference.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterGUI.Form1.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.csproj.GenerateResource.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.AssemblyInfoInputs.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.AssemblyInfo.cs
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.csproj.CoreCompileInputs.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.csproj.CopyComplete
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\refint\ImageFilterFront.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.pdb
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ImageFilterFront.genruntimeconfig.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\ВвП\Лабы\Lab_2_VVP\ImageFilterGUI\obj\Debug\net6.0-windows\ref\ImageFilterFront.dll

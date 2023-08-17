@@ -1,0 +1,12 @@
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\bin\Debug\net6.0\ImageFilterBack.deps.json
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\bin\Debug\net6.0\ImageFilterBack.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\bin\Debug\net6.0\ImageFilterBack.pdb
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\ImageFilterBack.csproj.AssemblyReference.cache
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\ImageFilterBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\ImageFilterBack.AssemblyInfoInputs.cache
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\ImageFilterBack.AssemblyInfo.cs
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\ImageFilterBack.csproj.CoreCompileInputs.cache
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\ImageFilterBack.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\refint\ImageFilterBack.dll
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\ImageFilterBack.pdb
+C:\Users\dengt\Desktop\проект\ImageFilterGUI\ImageFilterClass\obj\Debug\net6.0\ref\ImageFilterBack.dll
